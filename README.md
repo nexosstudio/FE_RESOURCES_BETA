@@ -16,6 +16,12 @@
 
 ---
 
+## Voting System
+
+<!-- ![Preview](.github/Voting_System.png) -->
+
+---
+
 ## 🔗 Useful Links
 
 [![Web Demo](https://img.shields.io/badge/Web-Blog-blue?style=for-the-badge&logo=google-chrome)](https://blog.nexoscreator.tech/)
