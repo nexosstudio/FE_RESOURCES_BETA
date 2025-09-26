@@ -25,7 +25,7 @@
 ## 🔗 Useful Links
 
 [![Web Demo](https://img.shields.io/badge/Web-Blog-blue?style=for-the-badge&logo=google-chrome)](https://blog.nexoscreator.tech/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green?style=for-the-badge&logo=github)](github.com/https://github.com/nexoscrafting/FE_RESOURCES_BETA)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green?style=for-the-badge&logo=github)](github.com/https://github.com/nexosstudio/FE_RESOURCES_BETA)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/eJ5FabRqnKs)
 <!-- [![NPM Package](https://img.shields.io/badge/NPM-Package-orange?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/lazy-youtube-player)  -->
 
@@ -54,13 +54,13 @@ This project is licensed under the **CC0 1.0 Universal**. See the [LICENSE](LICE
 ## 📬 Contact & Community
 
 💬 Join us on **Discord**: [Click Here](https://discord.com/invite/xAQzPtS5m4)  
-🐦 **Follow on Twitter**: [@nexoscrafting](https://twitter.com/nexoscrafting)  
+🐦 **Follow on Twitter**: [@nexosstudio](https://twitter.com/nexosstudio)  
 📧 **Email**: [contact@nexoscrafting.live](mailto:contact@nexoscrafting.live)
 
 <p align="center">
-  Created with ❤️ by <a href="https://github.com/nexoscrafting">@nexoscrafting</a>
+  Created with ❤️ by <a href="https://github.com/nexosstudio">@nexosstudio</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nexoscrafting/FE_RESOURCES_BETA/stargazers">⭐ Star us on GitHub!</a>
+  <a href="https://github.com/nexosstudio/FE_RESOURCES_BETA/stargazers">⭐ Star us on GitHub!</a>
 </p>
